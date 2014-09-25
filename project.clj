@@ -1,4 +1,4 @@
-(defproject clj-sesame-repository "0.1.1"
+(defproject clj-sesame-repository "0.2.0-SNAPSHOT"
   :description "Manage Sesame repositories"
   :url "https://github.com/mgaare/clj-sesame-repository"
   :license {:name "Eclipse Public License"
